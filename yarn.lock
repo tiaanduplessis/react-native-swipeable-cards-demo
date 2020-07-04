@@ -2693,9 +2693,10 @@ react-devtools-core@^2.5.0:
     shell-quote "^1.6.1"
     ws "^2.0.3"
 
-react-native-interactable@0.1.6:
-  version "0.1.6"
-  resolved "https://registry.yarnpkg.com/react-native-interactable/-/react-native-interactable-0.1.6.tgz#6f651f49f9efcbcf3b89b541abfaf4858bfed459"
+react-native-interactable@2.0.1:
+  version "2.0.1"
+  resolved "https://registry.yarnpkg.com/react-native-interactable/-/react-native-interactable-2.0.1.tgz#80a4608c4b6f19489b629926306afd980c73a309"
+  integrity sha512-b5Mej8JnW9+q/hf+6bxWsKIX4E1rjILBgPnyYFIaEhJZGrZeu5jxENvw3+Q7t43ARp1wJIZZGfilVoFmwtgOdw==
 
 react-native@0.49.3:
   version "0.49.3"
